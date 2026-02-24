@@ -1,6 +1,6 @@
 # Adrian | Cloud Security & AI Architecture Expert
 
-Specializing in **Zero Trust Infrastructures** and **AI Governance** for the Swiss Financial Sector (FINMA Compliance). 
+Specializing in **Zero Trust Infrastructures** and **AI Governance**. 
 
 ### 🛡️ Areas of Expertise
 * **Identity:** Microsoft Entra ID (Conditional Access, Privileged Identity Management)
