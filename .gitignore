@@ -1,0 +1,12 @@
+# PowerShell
+*.log
+*.pfx
+*.publishsettings
+.vscode/
+bin/
+obj/
+
+# sensitive data
+*.ps1xml
+secret.json
+config.local.ps1
